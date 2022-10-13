@@ -1,4 +1,4 @@
-print(2+2)
+print(3+3)
 
 import os
 print(os.getcwd())
